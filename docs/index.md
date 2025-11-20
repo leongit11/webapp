@@ -8,13 +8,13 @@ nav_order: 0
 >
 > You may delete this `attention` box.
 
-# [Project Name]
+# [ToDoAPP]
 
-[Project description]
+[Ein Versuch GitHub zu verstehen]
 
 ## Team members
 
-### [Jane Dane]
+### [Leon Otte]
 
 About
 : Some info about Jane
